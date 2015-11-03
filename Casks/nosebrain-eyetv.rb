@@ -4,7 +4,7 @@ cask :v1 => 'nosebrain-eyetv' do
   
   url "http://files.elgato.com/eyetvdownloads/support/eyetv_#{version.delete('.')}_7407.dmg"
   name 'EyeTV'
-  homepage 'https://www.elgato.com/'
+  homepage 'https://www.elgato.com/en/eyetv/eyetv-3'
   license :gratis
 
   app 'EyeTV.app'
